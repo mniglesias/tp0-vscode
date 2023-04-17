@@ -1,0 +1,11 @@
+[INFO] 18:37:51:731 client/(2857:2857): Hola! Soy un log
+[INFO] 18:37:51:731 client/(2857:2857): 127.0.0.1
+[INFO] 18:37:51:732 client/(2857:2857): 4444
+[INFO] 18:37:51:732 client/(2857:2857): valor
+[INFO] 18:38:57:380 client/(3193:3193): Hola! Soy un log
+[INFO] 18:38:57:380 client/(3193:3193): 127.0.0.1
+[INFO] 18:38:57:380 client/(3193:3193): 4444
+[INFO] 18:38:57:380 client/(3193:3193): valor
+[INFO] 18:38:59:137 client/(3193:3193): asd
+[INFO] 18:39:00:990 client/(3193:3193): asdasd
+[INFO] 18:39:01:976 client/(3193:3193): asd

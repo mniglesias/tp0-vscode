@@ -1,0 +1,6 @@
+[INFO] 18:38:48:778 server/(3109:3109): Servidor listo para recibir al cliente
+[INFO] 18:39:02:855 server/(3109:3109): Se conecto un cliente!
+[INFO] 18:39:02:856 server/(3109:3109): Me llego el mensaje valor
+[INFO] 18:39:04:281 server/(3109:3109): Me llegaron los siguientes valores:
+
+[ERROR] 18:39:04:281 server/(3109:3109): el cliente se desconecto. Terminando servidor
